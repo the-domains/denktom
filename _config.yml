@@ -1,0 +1,47 @@
+typography_spectrum: 0.4446808
+color:
+  brandStrength: 0.6829787
+  saturation: 0.6918393
+  brandColors:
+    - '#FFFFFF'
+    - '#000000'
+    - '#393939'
+    - '#008499'
+    - '#A5B0B0'
+  lightness: 0.7468517
+  rhythmicContrast: 0.4106383
+github: true
+layout_spectrum: 1
+analytics:
+  google: null
+author:
+  url: www.denktom.nl
+  name: ''
+  email: info@denktom.nl
+logo: null
+name: DenkTom
+navigation:
+  - name: Aanpak
+    id: d38776bf-8cf2-492b-ad11-94e15b086a37
+    type: content
+  - name: Over
+    id: ca2b1bb6-5ec3-4c76-9813-0c4fde83f232
+    type: content
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
+title: DenkTom
+description: Geef je ideeën de ruimte
+purpose:
+  - label: Neem contact op
+    type: internal
+    item: ca3e1646-060b-4e2e-b6c3-4a6b7a67afd3
